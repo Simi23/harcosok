@@ -1,0 +1,11 @@
+C:\Users\simit\source\repos\Harcosok\Harcosok\bin\Debug\netcoreapp3.1\Harcosok.exe
+C:\Users\simit\source\repos\Harcosok\Harcosok\bin\Debug\netcoreapp3.1\Harcosok.deps.json
+C:\Users\simit\source\repos\Harcosok\Harcosok\bin\Debug\netcoreapp3.1\Harcosok.runtimeconfig.json
+C:\Users\simit\source\repos\Harcosok\Harcosok\bin\Debug\netcoreapp3.1\Harcosok.runtimeconfig.dev.json
+C:\Users\simit\source\repos\Harcosok\Harcosok\bin\Debug\netcoreapp3.1\Harcosok.dll
+C:\Users\simit\source\repos\Harcosok\Harcosok\bin\Debug\netcoreapp3.1\Harcosok.pdb
+C:\Users\simit\source\repos\Harcosok\Harcosok\obj\Debug\netcoreapp3.1\Harcosok.csprojAssemblyReference.cache
+C:\Users\simit\source\repos\Harcosok\Harcosok\obj\Debug\netcoreapp3.1\Harcosok.AssemblyInfoInputs.cache
+C:\Users\simit\source\repos\Harcosok\Harcosok\obj\Debug\netcoreapp3.1\Harcosok.AssemblyInfo.cs
+C:\Users\simit\source\repos\Harcosok\Harcosok\obj\Debug\netcoreapp3.1\Harcosok.dll
+C:\Users\simit\source\repos\Harcosok\Harcosok\obj\Debug\netcoreapp3.1\Harcosok.pdb
